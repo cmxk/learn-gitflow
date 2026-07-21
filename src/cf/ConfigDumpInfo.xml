@@ -299,6 +299,7 @@
 		<Metadata name="CommonModule.СервисныеМеханизмы.Module" id="b9ce3eb0-3c68-475c-b624-3211d14e3ee4.0" configVersion="ad6b7cb81975cb42ad1c093430e988d000000000"/>
 		<Metadata name="CommonModule.СистемаВзаимодействияКлиент" id="08dfc68b-da47-4c55-98f9-fb1ec5d9f1df" configVersion="3ba157b10560624d910b79f7a50fec7900000000"/>
 		<Metadata name="CommonModule.СистемаВзаимодействияКлиент.Module" id="08dfc68b-da47-4c55-98f9-fb1ec5d9f1df.0" configVersion="705f84ee16e68243857476243465acf100000000"/>
+		<Metadata name="CommonModule.СкладскойУчет" id="70ca73be-fd75-4a3c-ba9b-15bf16e59f04" configVersion="2da251430443dc42b1efc0345ba4176500000000"/>
 		<Metadata name="CommonModule.УведомленияКлиент" id="46cc3103-f9f9-48aa-8765-02938206693a" configVersion="5870a93446b4f94eab3ccbf348315e2700000000"/>
 		<Metadata name="CommonModule.УведомленияКлиент.Module" id="46cc3103-f9f9-48aa-8765-02938206693a.0" configVersion="6a09e96ee5ff404bbc4871dc27d1011000000000"/>
 		<Metadata name="CommonModule.УведомленияСервер" id="a918de7d-6f86-4082-b534-aedfc951d0e8" configVersion="553197d7306c0042ac5880e62379646c00000000"/>
@@ -353,7 +354,7 @@
 		<Metadata name="CommonTemplate.КомпонентаПечатиШтрихкодовWindows32.Template" id="a0478cfc-4d22-451f-b62a-66e247ce4c49.0" configVersion="608d4d31c3a19b4d95b387d4d690084900000000"/>
 		<Metadata name="CommonTemplate.КомпонентаПечатиШтрихкодовWindows64" id="87438695-fa9a-432e-b5d2-84cc06e9ff6d" configVersion="e50158c4d76d2b40afdb79d03006d64b00000000"/>
 		<Metadata name="CommonTemplate.КомпонентаПечатиШтрихкодовWindows64.Template" id="87438695-fa9a-432e-b5d2-84cc06e9ff6d.0" configVersion="589c98b153119a498adeef17ce1b570400000000"/>
-		<Metadata name="Configuration.ДемонстрационноеПриложение" id="a3a9949e-f1f0-4b3a-821f-a85a9fb2fb3c" configVersion="fc26d748b4240641a089239b8fc8c0bc00000000"/>
+		<Metadata name="Configuration.ДемонстрационноеПриложение" id="a3a9949e-f1f0-4b3a-821f-a85a9fb2fb3c" configVersion="30e1a1fb7214cb45a15979884896233d00000000"/>
 		<Metadata name="Configuration.ДемонстрационноеПриложение.ClientApplicationInterface" id="71dad3e5-411e-4faa-9358-8eccdce47784.b" configVersion="30160f9ecb907042a37474f67e1e0c7500000000"/>
 		<Metadata name="Configuration.ДемонстрационноеПриложение.CommandInterface" id="71dad3e5-411e-4faa-9358-8eccdce47784.a" configVersion="02a5ba19f8fa814aa137cd4db607618800000000"/>
 		<Metadata name="Configuration.ДемонстрационноеПриложение.Help" id="71dad3e5-411e-4faa-9358-8eccdce47784.3" configVersion="1a46391bf3b12e4a85181298661b9b8300000000"/>
