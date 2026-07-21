@@ -334,6 +334,7 @@
 			<Subsystem>Продажи</Subsystem>
 			<Subsystem>Финансы</Subsystem>
 			<Subsystem>ТоварныеЗапасы</Subsystem>
+			<Subsystem>Склады</Subsystem>
 			<StyleItem>ЦветТекстаСущественныхИзмененийДанных</StyleItem>
 			<StyleItem>ЦветТекстаНормальногоСостояния</StyleItem>
 			<StyleItem>ЦветТекстаОшибочногоСостояния</StyleItem>
